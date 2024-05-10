@@ -79,7 +79,7 @@ body{
 .aba-conteudo.ativo{ display:block;
 }
 
-.aba-conteudo{ display: none;
+.aba-conteudo{ display:none;
 }
 
 .aba-conteudo-titulo-principal{ 
@@ -87,6 +87,8 @@ body{
     text-align: center;
 }
 
-.aba-conteudo-titulo-secundario{ text-align: center;
-    color: var(--verde); text-transform: uppercase;
+.aba-conteudo-titulo-secundario{ 
+    text-align: center;
+    color: var(--verde); 
+    text-transform: uppercase;
 }
